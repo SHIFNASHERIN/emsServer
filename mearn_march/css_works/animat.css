@@ -1,0 +1,38 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: 200px;
+    animation: anim 1s ease-in-out 1s infinite;
+    transition: 1s ease-in;
+}
+div:hover{
+    animation-play-state: paused;
+}
+
+@keyframes anim{
+    0%{
+        /* width: 10px; */
+        background-color: aqua;
+        transform: translateY(0px);
+
+    }
+    50%{
+        /* width: 70px; */
+        background-color: chartreuse;
+        transform: translateY(100px);
+    }
+    100%{
+        /* width: 120px; */
+        background-color: crimson;
+        transform: translateY(0px);
+    }
+}
+
+h1{
+    color: blue;
+}
+span{
+    color: aqua;
+}

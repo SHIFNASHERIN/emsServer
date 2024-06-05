@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Vaccine Eligibility Checking</h1>
+    <form action="">
+        <input id="a1" type="text" placeholder="enter your age">
+        <button onclick="ageCheck()" >check</button>
+    </form>
+</body>
+
+<script>
+    function ageCheck(){
+        age=parseInt(a1.value)
+        if(age>=18){
+            alert(`eligible for vaccination ${age}`)
+        }
+        else{
+            alert("not eligible for vaccination")
+        }
+
+    }
+</script>
+
+</html>
+
+<!-- s="10"   parseInt(s) -->

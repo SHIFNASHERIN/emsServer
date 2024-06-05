@@ -1,0 +1,62 @@
+JAVA SCRIPT
+-----------
+
+combiler - node 
+
+Data Types
+----------
+
+numeric
+
+1.Number
+
+int   4   -9   56 100
+float  3.5  0.9  -7.6
+
+
+non-numeric
+
+2.String     "hello"   'hi' 
+3.boolean    true   false
+
+Identifiers
+------------
+
+
+store -Variables
+-----
+
+-temporary storage
+-identify
+
+
+Flow Of controls
+----------------
+
+decision making - if  , else if ,  else
+looping         - while  for  
+    switching   -  break continue
+    to control loops
+
+
+
+Functions
+-----------
+
+
+code reusability
+space
+time  (num loops)
+length
+
+
+3 types of Functions
+--------------------
+
+1- fn without arguments  
+2- fn with arguments 
+3- fn with arguments and return
+
+arrow function
+
+

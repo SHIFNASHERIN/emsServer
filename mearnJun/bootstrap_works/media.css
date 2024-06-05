@@ -1,0 +1,21 @@
+div{
+    width: 50%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+/* max-width,min-width */
+/* max-height,min-height */
+/* orientation:landscape/portrait */
+@media(orientation:portrait){
+    div{
+        background-color: rgb(72, 8, 132);
+    }
+    h1{
+        /* font-size: smaller; */
+    }
+    span{
+        display: none;
+    }
+}
+

@@ -1,0 +1,16 @@
+DOM - document object model
+----------------------------
+
+
+Dom methods
+____________
+
+
+    1- document.getElementsByTagName('tagName')
+    2- document.getElementById('id')
+    3- document.getElementsByClassName('className')
+    4- document.querySelector('.className/#id/tagName')
+    5- document.querySelectorAll('.className/#id/tagName')
+
+    
+

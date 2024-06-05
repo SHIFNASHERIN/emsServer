@@ -1,0 +1,37 @@
+M - mongo db
+E - express
+A - angular
+R - react
+N - node
+
+webapps - front end , back end  - full stack
+desktop app -
+
+front end - html(hypertext markup language)- content loading
+          - css(cascading stylesheet) - style
+          - bootstrap - css framework - easy and better style
+          - js - to convert static page into dynamic
+
+                 angular - framework
+                 react   - library
+back-end (server+db) - node js - technology used to create server
+          - express - framework of node js
+          - mongodb - database to store data
+
+html-css-bootstrap(static web page)-js(1 mnth)-(dynamic webpage)- 
+                                               react-express,mongodb - angular
+
+    
+
+html 
+------
+
+<tagName> </tagName> - open and closing tag
+<tagname/>   - self closing tag
+<> </>       - empty fragment
+
+structure of html 
+-----------------
+
+high level language - human understandable   - english,python,js,html...
+low level language  - machine understandable - assembly language(0 and 1)

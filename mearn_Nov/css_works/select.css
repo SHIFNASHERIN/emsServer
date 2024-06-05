@@ -1,0 +1,43 @@
+h1{
+    color: rgb(42, 238, 221)
+   
+}
+
+#d1{
+    color: #68de72;
+    text-align: center;
+}
+.c{
+    color: green;
+    text-align: right;
+}
+.c1{
+    background-color: gray;
+}
+
+h2,p{
+    color: blue;
+    text-align: end;
+}
+p b{
+    color: magenta;
+}
+div{
+    background-color: aqua;
+}
+#div2{
+    background-color: pink;
+}
+span{
+    color: orange;
+}
+
+h2:hover{
+    color: red;
+    background-color: yellow;
+}
+
+/* tag name
+id selector #
+class selector .
+*/

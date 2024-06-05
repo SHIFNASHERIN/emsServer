@@ -1,0 +1,43 @@
+/* h1{
+    color: blue;
+}
+
+#d1{
+    color: brown;
+}
+
+.c1{
+    color: blueviolet;
+}
+.c2{
+    background-color: aqua;
+} */
+
+/* 
+tagname selector
+id selector #
+class selector .
+ */
+
+ /* p,h1{
+    color: rgb(16, 139, 47);
+ } */
+ body{
+    background-color: gray;
+ }
+ div{
+    background-color: cadetblue;
+ }
+ #d3{
+    background-color: #755aad;
+ }
+
+ .c1{
+    text-align: center;
+ }
+ #d1{
+    text-align: right;
+ }
+ p{
+    font-size: xx-large;
+ }

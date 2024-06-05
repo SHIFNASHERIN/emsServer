@@ -1,0 +1,120 @@
+JS
+---
+
+node - js combiler
+
+Data Types In JS 
+----------------
+
+1. Number
+
+    -int    3  -9  0  89 400
+    -float  9.8  0.1  -8.0
+
+2.String 
+
+    -'hello'  "hi"   "100"
+
+3-bool 
+
+    -true(1) /  false(0)
+
+
+Data Storing  
+-------------
+
+variables - temporary storage
+
+operators
+-----------
+
+
+flow of controls
+----------------
+
+-decision making  -  if , else if  ,else    - block
+-looping  -  for  while                     - block
+-switching - break continue                 - keyword
+
+
+function/method(.)   ()
+block                {}
+keyword
+data 
+operators
+variables
+
+
+
+reusability - function
+memory efficient  - variables
+working time  - loops
+length  
+
+
+function without argmnt
+function with argmnt 
+function with argmnt and return
+arrow function 
+
+String
+--------
+
+Array Methods
+-------------
+
+1.sort()   - array
+
+2.map()   - array
+
+3.filter() - array
+
+4.find()  - element
+
+5.reduce() - an element(last)/value
+
+6.reduceRight() - an element(first)
+
+7.some()  -yes(true)/no(false) 
+
+8.forEach() - elmnts
+
+9.includes(elmnt) - true/false (single array)
+
+10.flat() - single array
+
+oops
+______
+------
+
+class     - design pattern/blue print
+object    - real-world entity
+reference - used to store object 
+
+used
+----
+- we can create multiple objects from class 
+
+oops
+-------
+
+class
+object 
+reference 
+constructor
+inheritance  - single
+             - multiple 
+             - multilevel 
+
+polymorphism -method overloading
+             -method over-riding 
+
+encapsulation
+Abstraction
+
+
+
+
+
+
+

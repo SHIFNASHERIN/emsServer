@@ -1,0 +1,13 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(137, 43, 226, 0.439);
+    margin-left: 20%;
+    margin-top: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body{
+    background-image: url("./images/hero-800px-9fbe463f.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}

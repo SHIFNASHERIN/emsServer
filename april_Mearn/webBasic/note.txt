@@ -1,0 +1,66 @@
+full-stack
+---------
+front-end - html , css , bootstrap ,js
+back-end - db,server
+
+M -db
+e -express
+a - angular 
+r - react
+n - node
+
+html 
+-----
+
+h p br strong a img 
+table  
+list ol ul 
+
+form 
+
+input label
+
+semantic tags
+
+
+type of elements
+------------------
+
+inline - a
+block  - h 
+
+css
+---
+flex
+position properties
+
+-------------------
+
+
+
+Git & gitHub
+-------------
+
+git scm download
+vcs
+
+
+push - local repo to remote repo - to upload new project and new updations
+
+clone - remote repo to local repo  - to download exact copy of project
+
+pull  - remote repo to local repo - to download new updations 
+
+
+
+push
+-----
+Add
+commit
+push
+
+
+index.html 
+
+
+

@@ -1,0 +1,15 @@
+Ajax  - aynchronous js and xml
+------------------------------
+
+1- xmlHttps - class used to create api request in js 
+2- fetch    - function used to create api request in js - easy way
+3- async and await - keywords used in fetch 
+
+
+
+Promise  - to read output of asyncronous functions
+-------
+
+promise - resolve      - then()
+        - reject       - catch()
+

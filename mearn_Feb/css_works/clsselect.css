@@ -1,0 +1,30 @@
+.c{
+    color: rgb(127, 123, 123);
+}
+.c1{
+    background-color: #66c4c0;
+}
+.c2{
+    background-color: rgb(255, 213, 0);
+}
+.c3{
+    background-color: rgb(255, 0, 85);
+}
+.c4{
+    background-color: rgb(26, 255, 0);
+    text-align: right;
+}
+.c5{
+    text-align: center;
+    background-color: rgb(174, 255, 0);
+}
+
+body{
+    background-color: rgb(156, 173, 205);
+}
+div{
+    background-color: aqua;
+}
+#d2{
+    background-color: red;
+}

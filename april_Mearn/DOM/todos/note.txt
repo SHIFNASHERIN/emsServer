@@ -1,0 +1,13 @@
+Ajax- asynchronous javaScipt and Xml
+______________________________________
+
+1- XmlHttpRequest
+2- fetch
+3- async await
+
+
+Promise
+________
+
+resolve - then()
+reject  - catch()

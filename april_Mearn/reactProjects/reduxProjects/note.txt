@@ -1,0 +1,12 @@
+
+React 
+
+props drilling -coupling 
+
+state management 
+----------------
+ redux - state management tool for javascript applications
+ 
+
+
+

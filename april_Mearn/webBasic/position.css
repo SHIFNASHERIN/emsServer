@@ -1,0 +1,26 @@
+
+.parent{
+    width: 70%;
+    height: 300px;
+    /* background-color: cadetblue; */
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 20%;
+}
+.c{
+    height: 200px;
+    width: 20%;
+    border: 1px black dotted;
+}
+.c-1{
+    background-color: chartreuse;
+}
+.c-2{
+    background-color: rgb(93, 0, 255);
+}
+.c-3{
+    background-color: rgb(230, 0, 255);
+}

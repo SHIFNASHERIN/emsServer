@@ -1,0 +1,7 @@
+DOM
+---
+
+document object model 
+
+Dom methods
+-----------

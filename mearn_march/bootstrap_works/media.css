@@ -1,0 +1,26 @@
+div{
+    width: 400px;
+    padding: 5px;
+    background-color: darkgray;
+}
+h1{
+    font-size: xx-large;
+}
+/* max-width
+min-width
+max-height
+min-height */
+/* orientation:landscape/portrait */
+@media(orientation:landscape){
+    div{
+        background-color: cyan;
+    }
+    h1{
+        font-size: smaller;
+    }
+    span{
+        display: none;
+    }
+
+}
+

@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+
+#d1{
+    color: aqua;
+}
+
+.c1{
+    color: violet;
+}
+
+/*tag selectors */
+/* 1.tag name */
+/* 2.id selector # */
+/* 3.class selector . */

@@ -1,0 +1,73 @@
+Js
+--
+
+high level - human understandable - js c english
+low level -  machine understandable - binary format
+
+node - combiler of js 
+
+
+data display  - console.log()   - method
+
+() - function
+.() - method 
+
+Data Types
+----------
+
+1- String
+
+ ''   ""     "hello"
+
+2-Number
+
+    2,5,7,9,-7,0   - int
+    2.7 , 0.1 ,-9.7     - float
+
+3- boolean
+
+    true (1) / false (0)
+
+4 - undefined/None/Null
+
+
+Data Store
+----------
+
+variables - temparary data storage
+
+
+Operators
+----------
+
+control statements
+------------------
+
+1- decision making  -  if  ,  else if  , else
+2- looping          - for  , while  
+3- switching        - break , continue 
+
+
+-code reusability - function
+
+-no of variables  - memmory efficient
+-no of iterations - working time
+-length of code   - time 
+
+
+function
+---------
+
+1. function without arguments
+2. function with arguments
+3. function with argmnts and return
+4. arrow function 
+
+
+Array
+------
+
+
+
+
+

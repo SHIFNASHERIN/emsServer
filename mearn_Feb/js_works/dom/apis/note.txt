@@ -1,0 +1,21 @@
+Response Code 
+-------------
+
+100 - information 
+200 - success
+300 - redierection
+400 - client side error 
+500 - server error 
+
+
+API call In JavaScript
+----------------------
+
+AJAX (asynchronous javaScript and Xml)
+-------------------------------------
+
+1- XmlHttp
+2- fetch
+3- async await
+
+

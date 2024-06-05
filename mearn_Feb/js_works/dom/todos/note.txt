@@ -1,0 +1,6 @@
+asynchronours code handling in js
+---------------------------------
+
+promise  -resolve - then()
+         -reject  - catch()
+

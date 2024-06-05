@@ -1,0 +1,35 @@
+button{
+    height: 50px;
+    width: 100px;
+    background-color: rgba(72, 14, 91, 0.52);
+    color: white;
+    border: 1px solid white;
+    border-radius: 60px;
+}
+
+button:hover{
+    background-color: white;
+    color: rgb(72, 14, 91);
+    border-color: rgb(72, 14, 91);
+}
+body{
+    background-image: url("./images/istockphoto-1225173869-612x612.jpg");
+    background-size: cover;
+}
+h1{
+    color: rgb(76, 22, 126);
+}
+span{
+    color: palevioletred;
+}
+
+div h1{
+    color: brown;
+}
+h2,p{
+    color: cornsilk;
+}
+a{
+    color: chartreuse;
+    text-decoration: none;
+}

@@ -1,0 +1,108 @@
+Java-Script
+-----------
+
+node - interpreter of js 
+display data
+
+data-types
+------------
+1-String - "hello"  '100'
+2-Number - int(10,-2) , float(0.1,0.10,-2.0)
+3-boolean - true(1) , false(0)
+4-undefined - represent undefined data
+5-null  - represent null , ie:no values at all
+
+data storing
+------------
+
+variables - used to store data temporary
+
+num=100
+variable type is same as type of data stored in that variable
+
+
+int num
+num=10   - strictly typed languages
+c c++ 
+
+variable rules
+---------------
+my number=10    my_number=10-snake notation  myNumber=10 - camel notation 
+5myNumber=10
+my+Number
+
+
+declarations
+------------
+1- var                  var num=5   var - default
+2- const                const num=100 
+3- let                  { let num=10 }
+
+operators
+-----------
+
+1. arithmatic oprtrs  + - * / % ** 
+2. relational operators
+     < > <= >= == != === - true/false
+3. assignment oprtr =
+4. compound assignment oprtr 
+5. increment ++ and decrement --
+6. logical operator  &&(and)  ||(or)  !(not)
+
+flow of controles
+-----------------
+1- decision making - if , if - else , if - else if -  else  / ternary operator 
+2- looping - for,while
+3- switching - break,continue
+
+factors
+--------
+1- reusability
+2- time complexity 
+3- space complexity
+4- length
+
+code1 (better)      code2
+time less           time more
+more space          less space
+
+functions
+----------
+
+1- functions without arguments
+2- functions with arguments
+3- function with return
+4- nested function
+5- callback function 
+6- arrow function
+
+
+
+store output
+call in another func 
+
+
+
+
+function add(){
+
+}
+
+function calculator(){
+     add()
+}
+
+
+var out=add()
+
+
+
+pattern programs
+-----------------
+
+Array 
+------
+
+
+
+

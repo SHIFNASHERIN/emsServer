@@ -1,0 +1,15 @@
+REDUX
+-----
+
+coupling -
+props drilling -
+
+state management technology-redux
+
+store - a js file used to store all states in a redux project 
+action- a js file contains functions to update the states in store 
+dispatch - opearation used by the component to update the data inside store 
+payload - output data of a function inside action file
+reducer - responsible to update the states inside the store by using
+          payload
+

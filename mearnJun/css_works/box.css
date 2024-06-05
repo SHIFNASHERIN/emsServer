@@ -1,0 +1,13 @@
+div{
+    background-color: aqua;
+    height: 200px;
+    width: 300px;
+    border: 2px red double;
+    /* border-radius: 60px; */
+    margin-left: 112px;
+    margin-top: 126px;
+    /* margin: 200px; */
+    /* padding-left: 50px; */
+    padding: 50px;
+    
+}

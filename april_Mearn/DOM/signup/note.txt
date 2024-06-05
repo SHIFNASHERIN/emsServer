@@ -1,0 +1,36 @@
+API -Application Programming Interface 
+protocol - http,https
+
+http api request
+
+
+
+
+
+
+
+api request types 
+_______________https__
+
+C - POST
+R - GET
+U - PATCH(partial updation),PUT(complete updation)
+D - DELETE
+
+response 
+--------
+
+status code 
+
+1xx - information
+2xx - success
+3xx - redierection
+4xx - client side error
+5xx - server side error
+
+fake Apis
+__________ 
+
+
+
+

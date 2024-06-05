@@ -1,0 +1,33 @@
+.parent{
+    height: 500px;
+    background-color: grey;
+    margin-top: 100px;
+
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-evenly;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+
+.col{
+    height: 300px;
+    width: 15%;
+    border: black 1px solid;
+}
+.col-1{
+    background-color: aqua;
+}
+.col-2{
+    background-color: rgb(176, 216, 107);
+}
+.col-3{
+    background-color: rgb(161, 121, 217);
+}
+.col-4{
+    background-color: rgb(235, 100, 145);
+}
+

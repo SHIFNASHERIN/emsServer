@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Kaushan+Script&family=Parisienne&display=swap');
+p{
+    /* font-size: xx-large; */
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    line-height: 85px;
+}
+h1{
+    font-family: 'Parisienne', cursive;
+
+}

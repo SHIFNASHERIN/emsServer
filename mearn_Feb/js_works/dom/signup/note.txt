@@ -1,0 +1,75 @@
+DOM
+---
+
+document object model 
+
+Dom methods
+-----------
+
+
+Local Storage
+-------------
+ - permenent data storage 
+ - low storage capacity
+
+ C -create
+ R -read 
+ U -update
+ D -delete
+
+ methods 
+ -------
+
+ create - data store 
+ update - change stored data
+
+        localStorage.setItem()
+
+ read - access data 
+
+        localStorage.getItem()
+ delete -
+     
+        localStorage.removeItem()
+
+
+Json/xml
+json
+
+js to json   -  JSON.stringify()
+json to js   -  JSON.parse()
+
+
+register 
+
+api- application programming interface
+http -hypertext transfer protocol
+
+api request types
+-----------------
+
+GET  - R   
+POST - C
+PUT  - U  - complete updation
+PATCH - U  - partial update
+DELETE - D
+
+httprequest
+
+
+     header        body
+
+
+header - secret data 
+body - nornal data 
+
+
+C -
+R - 
+U -
+D -
+
+
+
+
+

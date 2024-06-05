@@ -1,0 +1,29 @@
+css
+----
+
+1- inline styling 
+
+2- internal styling 
+
+3- external styling 
+
+git & gitHub
+-------------
+
+version control system -
+branches-
+
+git - tool used to access github from our system
+
+push - local repo to remote repo - upload new project and new updation
+clone - remote repo to local repo - to download exact copy of project
+pull - remote repo to local repo - to download new updations only
+
+push 
+-----
+
+
+
+
+
+

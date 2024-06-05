@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Anton&family=Beau+Rivage&family=Bebas+Neue&family=BhuTuka+Expanded+One&family=Caveat&family=Codystar:wght@300&family=Comforter&family=Corinthia:wght@700&family=Dancing+Script:wght@400;700&family=Francois+One&family=Ingrid+Darling&family=Island+Moments&family=Licorice&family=Lobster&family=Luxurious+Script&family=Marck+Script&family=Meddon&family=Meow+Script&family=Mr+Dafoe&family=Mynerve&family=Nabla&family=Neonderthaw&family=PT+Sans+Narrow&family=Pacifico&family=Passions+Conflict&family=Rouge+Script&family=Rubik+80s+Fade&family=Rubik+Dirt&family=Rubik+Distressed&family=Rubik+Marker+Hatch&family=Rubik+Maze&family=Rubik+Moonrocks&family=Splash&family=Square+Peg&family=Syne+Mono&family=Syne+Tactile&family=Tangerine&family=Tilt+Prism&family=Updock&family=Vujahday+Script&display=swap');
+div{
+    /* height: 300px; */
+    width: 50%;
+    border: black double 2px;
+    /* padding-left: 20px; */
+    padding: 50px;
+    border-radius: 205px;
+}
+
+#b1{
+    background-color: violet;
+}
+#b2{
+    background-color: turquoise;
+    margin-top:-305px ;
+    margin-left: 612px;
+}
+
+p{
+    font-size: x-large;
+    font-family: 'Ingrid Darling', cursive;
+}
+

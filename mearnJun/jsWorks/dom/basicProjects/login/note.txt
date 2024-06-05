@@ -1,0 +1,46 @@
+variable- temporary data storage
+-permanent storage  - data base (mongo db),local storage 
+
+
+Local Storage 
+-------------
+
+localStorage is a property that allows JavaScript sites and apps to save
+key-value pairs in a web browser with no expiration date.
+
+- limitation -low storage capacity 
+
+data - key ,value
+
+C - create - localStorage.setItem(key,value)
+R - read   - localStorage.getItem(key)
+U - update - localStorage.setItem(key,value)
+D - delete - localStorage.removeItem(key)
+
+    json conversion 
+    ---------------
+    js to json - JSON.strigify(data)
+    json to js - JSON.parse(data)
+
+    js   - {name:"anu",age:23}
+    json - {"name":"anu","age":23}
+
+
+Cookies
+-------
+use in JavaScript using cookie property of Document object.
+This property is readable and writable both.
+A cookie is an old technology used in web browsers as client-side 
+storage which works by server-side scripting languages like ASP, PHP, etc.
+
+
+session storage
+---------------
+allows you to store data in the browser depending on the system memory and 
+the data stored in the browser until the browser is closed
+
+
+
+
+
+

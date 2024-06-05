@@ -1,0 +1,48 @@
+oop(object oriented programming)
+--------------------------------
+
+procedural programming
+object oriented programming 
+
+
+class        - deasign pattern /basic structure/blueprint
+object       - real-world entity 
+reference    - to store object for further operations(same as variables)
+constructor  - to initialize the object at the 
+               time of object creation
+inheritance  - used to access properties(methods and atributes) of one class in 
+               another class
+                    -single inheritance 
+                    -multiple inheritance - not support
+                    -multilevel/hierarchical inheritance
+polymorphism - same method name 
+                    -overloading - same method name and diff num of argmnts.
+                     object identify method by using num of argmnts given
+                     while calling methods(js not supporting)
+                    -over-riding - same method name and same num of argmnts
+                     latest created method over-rides other methods
+
+abstraction    -
+ancapsulation  -
+
+
+identifiers
+-----------
+
+- variables
+- function name
+- class name 
+
+
+CRUD 
+
+C- create - add
+R- read - access
+U- update
+D- delete
+
+DOM- Document object model
+--------------------------
+
+
+

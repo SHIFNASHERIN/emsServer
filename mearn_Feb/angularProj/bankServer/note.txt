@@ -1,0 +1,114 @@
+Node Server
+-----------
+
+npm init
+
+npm i express
+
+steps
+-----
+
+1- import express
+2- create an app using express 
+3- set a port to run 3000/8000
+
+
+Mongo Db
+-----------
+
+mongodb shell commands
+----------------------
+
+-to see databases in mdb 
+     
+     -> show dbs 
+
+-open any database 
+  
+    -> use dataBaseName 
+
+-to see the collections
+
+    -> show collections 
+
+-access all datas inside collection
+
+    ->db.collectionName.find()    *
+
+-to access any single data 
+
+    ->db.collectionName.findOne({})    *
+
+-to insert a data
+
+    ->db.collectionName.insertOne({keys:values})
+
+-to find data according to a condition 
+
+    ->db.collectionName.find(query selection operators)
+
+    ->db.users.find({balance:{gt:4000}})      *
+
+-delete a single data 
+ 
+    ->db.collectionName.deleteOne({})      *
+
+-update a single data 
+
+    ->db.collectionName.updateOne({data to be change},$set{new data})
+    ->db.users.updateOne({uname:anu},$set{uname:anu v})
+
+
+server-db integration
+----------------------
+3000  - 27017
+
+-mongoose -library used to integrate db with server 
+  npm i mongoose
+
+
+steps
+-----
+
+1- import mongoose 
+2- connection string to connect   -connect()
+3- define collection model        - model()
+4- export model 
+
+
+Cors - cross origin resource sharing
+------
+
+used to integrate client with server 
+
+
+json web token(jwt token)
+-------------------------
+
+used to apply token based user authentication
+
+npm i jsonwebtoken
+
+
+middlewares
+-----------
+
+its a function with three argmnts - req,res,next
+it have the capacity to control server requests
+
+2 types
+    
+    1.Application Specific middlewares - it control all the server requests 
+    2.Router Specific middlewares      - only control developer specified server requests
+    
+try-catch
+---------
+
+used to resolve run-time errors(un expected errors) 
+
+try{
+    error causing code
+}
+catch{
+    code to work when error occured in try block
+}

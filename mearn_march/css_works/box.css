@@ -1,0 +1,14 @@
+div{
+    width: 300px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 2px black solid;
+    margin-left: 357px;
+    margin-top: 157px;
+    /* padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 40px; */
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+}

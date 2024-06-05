@@ -1,0 +1,13 @@
+Html
+_____
+
+- content loading 
+
+- tag 
+    <tagName> - open tag   
+    </tagName> - closing tag
+    <tagName/> - self closing tag 
+
+- html5
+
+- basic tags

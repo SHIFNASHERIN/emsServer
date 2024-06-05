@@ -1,0 +1,15 @@
+database - mongodb
+local storage - storage capacity is very low
+
+C  - localStorage.setItem(key,value)
+R  - localStorage.getItem(key)
+U  - localStorage.setItem(key,value)
+D  - localStorage.removeItem(key)
+
+js - json
+JSON.stringify()
+
+
+
+json-js 
+JSON.parse()

@@ -1,0 +1,41 @@
+.row{
+    background-color: black;
+    width: 75%;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.c{
+    height: 300px;
+    width: 20%;
+    border: yellow 2px solid;
+    position: absolute;
+    top: 50px;
+}
+.c1{
+    background-color: aqua;
+    left: 50px;
+}
+.c2{
+    background-color: rgb(255, 170, 0);
+    left: 250px;
+}
+
+.c3{
+    background-color: rgb(170, 109, 223);
+    left: 450px;
+}
+.c4{
+    background-color: rgb(4, 255, 0);
+    left: 650px;
+}
+.r2{
+    top: 300px;
+}
+
+/* static */
+/* absolute */
+/* relative */
+/* fixed */
+/* sticky */

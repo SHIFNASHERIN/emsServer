@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container w-50 my-5 p-3 bg-light border text-center">
+        <h1>Login</h1>
+        <form>
+            <input id="uname" type="text" placeholder="username" class="form-control mt-3">
+            <input type="password" placeholder="password" class="form-control mt-3">
+            <button onclick="login()" class="btn btn-info w-25 mt-5" type="button">
+                login
+            </button>
+        </form>
+    </div>
+</body>
+<script>
+    function login(){
+        user=uname.value
+        // console.log(user);
+
+        // store user in local storage
+        localStorage.setItem("user",user)
+
+        // redierection
+        window.location='home.html'
+
+    }
+
+
+</script>
+
+</html>

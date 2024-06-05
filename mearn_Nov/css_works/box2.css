@@ -1,0 +1,26 @@
+.c{
+    height: 200px;
+    width: 20%;
+    border: 2px solid;
+    border-radius: 10px 50px 70px 100px;
+}
+
+.c:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.c1{
+    background: rgb(92,85,227);
+    background: linear-gradient(90deg, rgba(92,85,227,1) 0%, rgba(212,108,210,1) 41%, rgba(224,151,128,1) 100%); 
+    /* margin-top: 50px; */
+}
+/* .c2{
+    background-color: palevioletred;
+    margin-top: 50px;
+} */
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#810ec4, rgb(207, 15, 47));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

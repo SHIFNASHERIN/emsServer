@@ -1,0 +1,25 @@
+body{
+    background-image: url('./gallery/images/png-transparent-hamburger-street-food-seafood-fast-food-delicious-food-salmon-with-vegetables-salad-in-plate-leaf-vegetable-food-recipe-thumbnail.png');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+
+h1{
+    color: rgba(0, 0, 255, 0.32);
+}
+div{
+    width: 50%;
+    height: 600px;
+    opacity: 0;
+}
+div:hover{
+    background-color: black;
+    opacity: 0.2; 
+}
+div h1{
+    color: white;
+}
+
+/* opacity */
+
+/* image  descr  name authorName */

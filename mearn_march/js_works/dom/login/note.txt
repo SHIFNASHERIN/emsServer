@@ -1,0 +1,44 @@
+DOM -Document Object Model
+--------------------------
+
+Dom methods - used to acess elements from dom 
+-----------
+
+document.getElementsByTagName('tagname')
+document.getElementById('id')
+document.getElementsByClassName('className')
+document.querySelector('tagname/#id/.className')  - single element
+document.querySelectorAll('tagname/#id/.className')  - multiple elements
+
+
+Local Storage
+-------------
+
+ - permanent data storage 
+
+ c -create    -localStorage.setItem()
+ r -read      -localStorage.getItem()
+ u -update    -localStorage.setItem()
+ d -delete    -localStorage.removeItem()
+
+ xml/json
+
+json - common language
+----
+
+js-json   JSON.stringify()
+json-js   JSON.parse()
+
+{
+    name:"anu",
+    age:24
+}
+
+{
+    "name":"anu",
+    "age":24
+}
+
+
+
+

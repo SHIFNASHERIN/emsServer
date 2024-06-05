@@ -1,0 +1,12 @@
+git operations:
+  1) push
+  2)clone
+  3) pull
+        
+        push : local storage/local repository - remote repository
+        clone:  remote repo - local repo
+        pull : remote repo - local repo - update code 
+
+
+push operation :
+

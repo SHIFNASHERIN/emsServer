@@ -1,0 +1,26 @@
+MEARN
+
+m-mongo db  
+
+e-express -framework of node
+
+a-angular
+            - framework of js
+r-react
+
+n-node js  - server technology
+
+
+
+
+web-app -- front-end   back-end (db server)
+
+user interface
+
+
+html - content loading       .html
+css  - styling 
+bootstrap -framework of css 
+                        -static
+javaScript-
+                        -dynamic

@@ -1,0 +1,103 @@
+Java Script
+------------
+
+- high-level coding language
+- combiler / interpreter 
+- node
+
+Data-Types
+----------
+
+1-Number
+    -int 5  -1  0
+    -float 2.0  -1.1  0.2
+2-String 
+    - 'hi' "a"  "100"
+3-boolean 
+    - true/false 
+
+4- deafault/none/null/undefined
+
+Data Store 
+----------
+
+variables -to store datas-temporary
+
+
+strictly typed - c ,ts
+dynamically typed - js,python 
+
+Operators
+----------
+
+flow of controls
+----------------
+
+decision making - if ,else ,else if / ternary operator / switch 
+looping         - for,while
+switching       - continue,break - keywords
+
+
+patterns
+string pgms 
+
+
+better code 
+------------
+
+1-reusable  - functions
+2-time complexity  - loop 
+3-space complexity - variables
+4-length
+
+
+Functions 
+---------
+
+1- function without argmnt
+2- function with argmnts 
+3- function with return   
+4- arrow functions 
+5- callback function
+
+
+Array
+
+Array Methods
+-------------
+
+1-  sort()  -array
+
+2-  map()  - array  
+
+3-  filter() - array
+
+4-  find() - single element
+
+5-  reduce() - single value - last
+
+6-  reduceRight() -single value - first
+
+7-  some() - true/false
+
+8-  forEach() - elmnts
+
+9-  includes() - true/false
+
+10- flat()  - single array
+
+...
+
+
+a=[1,2,3,4,5]
+
+
+
+
+
+
+
+
+
+
+

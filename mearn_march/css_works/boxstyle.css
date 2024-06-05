@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Anton&family=Beau+Rivage&family=Bebas+Neue&family=BhuTuka+Expanded+One&family=Caveat&family=Codystar:wght@300&family=Comforter&family=Corinthia:wght@700&family=Dancing+Script:wght@400;700&family=Francois+One&family=Ingrid+Darling&family=Island+Moments&family=Licorice&family=Lobster&family=Luxurious+Script&family=Marck+Script&family=Meddon&family=Meow+Script&family=Mr+Dafoe&family=Mynerve&family=Nabla&family=Neonderthaw&family=PT+Sans+Narrow&family=Pacifico&family=Passions+Conflict&family=Rouge+Script&family=Rubik+80s+Fade&family=Rubik+Dirt&family=Rubik+Distressed&family=Rubik+Iso&family=Rubik+Marker+Hatch&family=Rubik+Maze&family=Rubik+Moonrocks&family=Splash&family=Square+Peg&family=Syne+Mono&family=Syne+Tactile&family=Tangerine&family=Tilt+Prism&family=Updock&family=Vujahday+Script&display=swap');
+
+div {
+    width: 300px;
+    /* height: 200px; */
+    border: 2px solid black;
+    padding: 10px;
+}
+
+#b1 {
+    margin-top: 50px;
+    background-color: aqua;
+}
+
+#b2 {
+    margin-top: 50px;
+    background-color: burlywood;
+
+}
+
+p {
+    font-family: 'Tangerine', cursive;
+    font-size:xx-large;
+}

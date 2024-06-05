@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+</head>
+<body class="bg-light">
+    <div class="container w-75 text-center mt-4">
+        <h1 class="text-success">List Of Todos</h1>
+        <table class="bg-dark text-white w-100 border rounded p-5 mt-4">
+            <thead>
+                <tr>
+                    <th class="border">User Id</th>
+                    <th class="border">Id</th>
+                    <th class="border">Title</th>
+                    <th class="border">Completed</th>
+                </tr>
+            </thead>
+            <tbody id="result">
+
+            </tbody>
+        </table>
+    </div>
+</body>
+<script>
+
+    // api call
+
+    // // 1. create an object of class XmlHttpRequest
+    // request=new XMLHttpRequest()
+
+    // // create an api call request   -  open()
+    // request.open('get','https://jsonplaceholder.typicode.com/todos')
+
+    // // send the request  - send()
+    // request.send()
+
+    // request.onreadystatechange=()=>{
+    //     //check the request reached or not in server
+    //     if(request.readyState==4){
+    //         if(request.status>199 && request.status<300){
+    //             todos=JSON.parse(request.responseText)
+    //             // console.log(todos);
+    //             displayData(todos)
+    //         }
+    //     }
+    // }
+                                                        // parse (json to js conversion)
+    fetch('https://jsonplaceholder.typicode.com/todos').then(todos=>todos.json())
+    .then(todos=>displayData(todos))
+
+    function displayData(data){
+        
+        for(i of data){
+            result.innerHTML+=`
+            <tr>
+                <td class='border'>${i.userId}</td>
+                <td class='border'>${i.id}</td>
+                <td class='border'>${i.title}</td>
+                <td class='border'>${i.completed}</td>
+            </tr>
+            `
+       
+        }
+
+    }
+
+
+</script>
+</html>

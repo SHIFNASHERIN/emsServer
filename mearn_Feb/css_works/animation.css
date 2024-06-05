@@ -1,0 +1,43 @@
+div {
+    margin-top: 100px;
+    margin-left: 40%;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    /* animation: anim 2s ease-in 0s infinite; */
+}
+
+div:hover {
+    animation-play-state: paused;
+}
+h1{
+    color: aqua;
+}
+span{
+    color: blue;
+}
+
+p:hover{
+    display: none;
+}
+
+@keyframes anim {
+    0% {
+        /* width: 50px; */
+        background-color: aqua;
+        transform: rotate(45deg);
+   }
+
+    50% {
+        /* width: 150px; */
+        background-color: blue;
+        transform: rotate(180deg);
+   }
+
+    100% {
+        /* width: 80px; */
+        background-color: blueviolet;
+        transform: rotate(200deg);
+
+    }
+}
